@@ -1,0 +1,10 @@
+D:\Wolf\5Form\5Form\bin\Debug\5Form.exe.config
+D:\Wolf\5Form\5Form\bin\Debug\5Form.exe
+D:\Wolf\5Form\5Form\bin\Debug\5Form.pdb
+D:\Wolf\5Form\5Form\obj\Debug\5Form.csprojAssemblyReference.cache
+D:\Wolf\5Form\5Form\obj\Debug\_5Form.Form1.resources
+D:\Wolf\5Form\5Form\obj\Debug\_5Form.Properties.Resources.resources
+D:\Wolf\5Form\5Form\obj\Debug\5Form.csproj.GenerateResource.cache
+D:\Wolf\5Form\5Form\obj\Debug\5Form.csproj.CoreCompileInputs.cache
+D:\Wolf\5Form\5Form\obj\Debug\5Form.exe
+D:\Wolf\5Form\5Form\obj\Debug\5Form.pdb
